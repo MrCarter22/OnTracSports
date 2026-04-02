@@ -1,0 +1,1 @@
+////  SettingsViewModel.swift//  OnTracSports////  Created by user279676 on 10/24/25.//import SwiftUIimport Observation@Observableclass SettingsViewModel {    var appVersion: String = "1.0.1"    var developer: String = "On Trac Sports"}

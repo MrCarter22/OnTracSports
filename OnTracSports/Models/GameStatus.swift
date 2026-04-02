@@ -1,0 +1,1 @@
+////  GamesStatus.swift//  OnTracSports////  Created by user279676 on 10/24/25.//import Foundationenum GameStatus: Hashable {    case live    case final    case upcoming(time: String)}
